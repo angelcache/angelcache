@@ -1,0 +1,2 @@
+- 👋 Hi, I'm Angela
+- 🌱 I’m currently learning how to program <3
