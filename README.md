@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Angela Dakay
+- 👋 Hi, I'm Angela D.
 - 🌱 I’m currently learning how to program <3
