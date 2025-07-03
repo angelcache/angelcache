@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-28a745?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/angela-dakay-b6365a244/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-28a745?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angela-dakay-b6365a244/)
 
 </div>
 
