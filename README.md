@@ -3,7 +3,7 @@
 ### 🌱 Currently Working On
 - 🧩 Escape Room Game
 - 🦉 The Odin Project Course
-- 💡 Learning Frontend + Backend skills
+- 💡 Club Website
 
 ---
 
