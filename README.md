@@ -35,12 +35,13 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=d79921&center=true&vCenter=true&multiline=true&width=435&height=60&lines=lets+connect+!;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=d79921&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Lets+Connect+!;"/>
 </p>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-28a745?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angela-dakay-b6365a244/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=webwallet&logoColor=white)](https://angela-dev.vercel.app)
 
 </div>
 
