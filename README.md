@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 
-![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelcache&show_icons=true&theme=gruvbox)
+![Angela's GitHub stats](https://github-readme-stats-two-gold-74.vercel.app/api?username=angelcache&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox)
 
 ---
 
